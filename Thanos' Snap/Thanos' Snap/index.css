@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+img{
+    opacity: 1;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+button{
+    width: 60px;
+    height: 30px;
+    margin: 10px;
+    left: 50%;
+    transform: translate(0%,-50%);
+}
