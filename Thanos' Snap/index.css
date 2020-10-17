@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+    background-color: snow;
+}
+img{
+    opacity: 1;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+p{
+    font-weight: bold;
+    font-size: x-large;
+}
+#note2{
+    display: none;
+}
+#gauntlet{
+    width: 60px;
+}
